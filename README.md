@@ -1,0 +1,2 @@
+# seg-info-criptografar
+ 
